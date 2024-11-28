@@ -24,13 +24,14 @@ Tenho uma pagina no Instagram aonde dou Treinamento para QAs
     <img src="https://skillicons.dev/icons?i=js,html,postman,cypress,git,figma,azure,docker,postgresql,python,aws,azure devops," alt="My Skills"/>
   </a>
 </p>
-  
+
 </p>
 
 ###
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
